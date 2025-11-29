@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  //---------- Q1 ----------//
+  //----------------- Q1 -----------------//
 
   int x = 5;
   int y = 10;
@@ -10,7 +10,7 @@ void main() {
   print('$x - $y = ${x - y}');
   print('$x * $y = ${x * y}');
 
-  //---------- Q2 ----------//
+  //----------------- Q2 -----------------//
 
   int a =int.parse(stdin.readLineSync()!);
   int b =int.parse(stdin.readLineSync()!);
@@ -19,7 +19,7 @@ void main() {
 
   print((a * b) - (c * d));
 
-  //---------- Q3 ----------//
+  //----------------- Q3 -----------------//
 
   const P = 3.141592653;
   double R = double.parse(stdin.readLineSync()!);
@@ -30,7 +30,7 @@ void main() {
     print('PLZ Enter Number 1 ==> 100 ');
   }
 
-  //---------- Q4 ----------//
+  //----------------- Q4 -----------------//
 
   int N = int.parse(stdin.readLineSync()!);
 
@@ -53,13 +53,13 @@ void main() {
   print("$months months");
   print("$days days");
 
-  //---------- Q5 ----------//
+  //----------------- Q5 -----------------//
 
   int n = int.parse(stdin.readLineSync()!);
   int sum = n * (n + 1) ~/ 2;
   print(sum);
 
-  //---------- Q6 ----------//
+  //----------------- Q6 -----------------//
 
   String? line = stdin.readLineSync();
 
@@ -67,7 +67,7 @@ void main() {
     print("No input!");
     return;
   }
-
+  
   List<String> input = line.split(' ');
 
   if (input.length < 4) {
