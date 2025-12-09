@@ -1,16 +1,39 @@
-# task_3
+# Task 3
 
-A new Flutter project.
+## 📱 Profile Page
 
-## Getting Started
+هذه المهمة عبارة عن صفحة بروفايل مستخدم تحتوي على:
+- صورة شخصية
+- الاسم
+- الوظيفة
+- الموقع
+- الإيميل
+- وبعض الإعدادات مثل: Account Settings و Notifications
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 👤 واجهة البروفايل
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="YOUR_IMAGE_LINK_HERE" width="300" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ التقنيات المستخدمة
+
+- Flutter  
+- Dart  
+- Material Design Widgets  
+
+---
+
+## 📌 مميزات الصفحة
+- تصميم بسيط ومرتب  
+- استخدام Profile Header جميل بخلفية وصورة شخصية  
+- Cards للإعدادات  
+- سهولة التعديل والتخصيص  
+
+---
+
+## 📷 لقطة الشاشة
+
+> قم بإضافة لقطة الشاشة الخاصة بك هنا بعد رفع الصورة.
