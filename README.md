@@ -14,7 +14,7 @@
 
 ## 👤 واجهة البروفايل
 
-<img src="YOUR_IMAGE_LINK_HERE" width="300" />
+<img src="(https://github.com/MShulkamy/NTI_Tasks/blob/Task2/photo_2025-12-09_17-57-22.jpg)" width="300" />
 
 ---
 
